@@ -1,6 +1,6 @@
 # ML-OPS Pipeline – Custom Neural Network Deployment & Automation
 
-![MLOps Lifecycle](images/mlops.png)
+![MLOps Lifecycle](Images/mlops.png)
 
 ---
 
